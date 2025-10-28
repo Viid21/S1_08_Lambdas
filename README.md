@@ -1,6 +1,6 @@
 # 🧑‍💻 Task S1.08. Java Lambdas and Streams  
 **Author:** David Rey  
-**Corrected by:** 
+**Corrected by:** Carlos (carlosPc1987)
 
 ## 📄 Description  
 This project explores the **Java 8+ Lambdas and Streams API**, applying functional programming concepts to collections, filtering, sorting, and custom functional interfaces. The exercises are organized by difficulty level.
